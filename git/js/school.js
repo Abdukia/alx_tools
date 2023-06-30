@@ -1,1 +1,2 @@
-console.log("School")
+#!/bin/bash
+console.log "School"

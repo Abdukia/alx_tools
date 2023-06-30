@@ -1,1 +1,3 @@
-console.log("ALX")
+#!/bin/bash
+console.log "ALX"
+
