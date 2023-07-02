@@ -1,1 +1,3 @@
-console.log("ALX")
+<script>
+  console.log("ALX");
+</script>
